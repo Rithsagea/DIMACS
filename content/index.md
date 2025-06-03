@@ -23,3 +23,6 @@ The National Institute of Standards and Technology (NIST) has developed standard
 
 # Weekly Log
 ![[2025-W22]]
+
+# Resources
+- [[Website Setup]]
