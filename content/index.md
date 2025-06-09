@@ -22,7 +22,10 @@ Given its importance, randomness is a critical resource. This raises two key que
 The National Institute of Standards and Technology (NIST) has developed standardized test suites to evaluate uniformity. While testing for perfect uniformity is theoretically infeasible, these tests are widely used in practice by systems and protocols that rely on uniform randomness. This project aims to explore the development of a more practical theoretical framework for randomness testing and investigate how deep neural networks might be employed to assess uniformity.
 
 # Weekly Log
+## Week 0
 ![[2025-W22]]
+## Week 1
+![[2025-W23]]
 
 # Resources
 - [[Website Setup]]
