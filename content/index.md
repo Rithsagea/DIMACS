@@ -32,6 +32,8 @@ The National Institute of Standards and Technology (NIST) has developed standard
 ![[2025-W25]]
 ## Week 4
 ![[2025-W26]]
+## Week 5
+![[2025-W27]]
 
 # Resources
 - [[Website Setup]]
