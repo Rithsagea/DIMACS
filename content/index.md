@@ -36,6 +36,8 @@ The National Institute of Standards and Technology (NIST) has developed standard
 ![[2025-W27]]
 ## Week 6
 ![[2025-W28]]
+## Week 7
+![[2025-W29]]
 
 # Resources
 - [[Website Setup]]
@@ -43,3 +45,9 @@ The National Institute of Standards and Technology (NIST) has developed standard
 # Slides
 ## Introduction
 ![[Introduction.pdf]]
+
+## Final
+![[Final.pdf]]
+
+# Acknowledgments
+This work was carried out as part of the 2025 DIMACS REU program at Rutgers University, supported by NSF grant CCF-2247342.
